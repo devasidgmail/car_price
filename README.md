@@ -10,13 +10,21 @@ Final Report - Please Read
 
 
 
+-----------
+
+
+
 Jupyter Notebooks
 
  	1\_Explore\_Clean.ipynb
 
  	2\_Car\_Price.ipynb
 
-  
+
+
+
+
+-----------  
 
 Folders
 
